@@ -3,8 +3,8 @@ Train YOLO to Detect Custom Objects
 ==================================
 
 Group Members:   Mahrang Saeed, Haoyuan Wang, Xunan Dai
-Files: Please see attached in the email
 
+Files:
 1. Presentation slides: Train YOLO to Detect Custom Objects.pdf
 2. CMPE297 Final Report.pdf
 3. Source code: https://github.com/AlexeyAB/darknet
