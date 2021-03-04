@@ -31,7 +31,7 @@ Requirements on Windows/Linux:
     6) on Linux GCC or Clang, on Windows MSVC 2015/2017/2019
 
 Files:
-1. Presentation slides: Train YOLO to Detect Custom Objects.pdf
+1. Our presentation slides: Train YOLO to Detect Custom Objects.pdf
 2. CMPE297 Final Report.pdf
 3. Source code: https://github.com/AlexeyAB/darknet
 4. YOLOv2 Article.pdf
