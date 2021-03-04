@@ -34,3 +34,5 @@ Files:
 1. Presentation slides: Train YOLO to Detect Custom Objects.pdf
 2. CMPE297 Final Report.pdf
 3. Source code: https://github.com/AlexeyAB/darknet
+
+See file #s 1-2 for our implementation of YOLOv2 to detect doors.
