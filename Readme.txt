@@ -44,4 +44,4 @@ Files:
 6. Source code: https://github.com/AlexeyAB/darknet
 7. YOLOv2 Paper.pdf
 
-See file #s 1-3 for our implementation of YOLOv2 to detect doors.
+See file #s 1-4 for our implementation of YOLOv2 to detect doors.
