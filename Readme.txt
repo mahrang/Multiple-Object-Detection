@@ -42,6 +42,6 @@ Files:
 4. Project YOLO.pdf
 5. Code folder
 6. Source code: https://github.com/AlexeyAB/darknet
-7. YOLOv2 Paper.pdf
+7. YOLOv3 Paper.pdf
 
 See file #s 1-4 for our implementation of YOLOv3 to detect doors.
