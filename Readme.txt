@@ -3,7 +3,7 @@ Group Members:   Mahrang Saeed, Haoyuan Wang, Xunan Dai
 To train YOLOv3 on COCO dataset:
 ================================
 
-Visit https://pjreddie.com/darknet/yolov2/
+Visit https://pjreddie.com/darknet/yolo/
 Scroll down to "Detection Using A Pre-Trained Model" and run the commands to install Darknet.
 Scroll down to "Training YOLO on COCO" and run the commands to train YOLOv3 model on COCO dataset.
 Scroll up to "Real-Time Detection on a Webcam" and run the commands to detect objects from webcam or video file.
@@ -24,7 +24,7 @@ Download Darknet Framework at:
 https://github.com/AlexeyAB/darknet
 
 To start training YOLOv3 model on a dataset, run the following command: 
-./darknet detector train cfg/obj.data cfg/yolov3.cfg darknet19_448.conv.23
+./darknet detector train cfg/obj.data cfg/yolov3.cfg darknet53.conv.74
 
 Requirements on Windows/Linux:
 ==============================
