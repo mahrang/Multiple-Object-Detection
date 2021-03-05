@@ -11,7 +11,7 @@ Scroll up to "Real-Time Detection on a Webcam" and run the commands to detect ob
 After training YOLOv2 on COCO dataset, we ran the trained model on a video file to detect objects on the street in an autonomous driving scenario.
 Here is the video showing the objects it detected:  https://www.youtube.com/watch?v=U4y2hvrecSw
 
-You may also use the Python code provided in our Code folder to use YOLOv2 trained on COCO to perform detection on images/videos.
+You may also use our Python code provided in our Code folder to use YOLOv2 trained on COCO to perform detection on images/videos.
 
 
 To Train YOLOv2 to Detect Custom Objects:
