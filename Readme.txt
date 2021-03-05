@@ -1,20 +1,20 @@
 Group Members:   Mahrang Saeed, Haoyuan Wang, Xunan Dai
 
-To train YOLOv2 on COCO dataset:
+To train YOLOv3 on COCO dataset:
 ================================
 
 Visit https://pjreddie.com/darknet/yolov2/
 Scroll down to "Detection Using A Pre-Trained Model" and run the commands to install Darknet.
-Scroll down to "Training YOLO on COCO" and run the commands to train YOLOv2 model on COCO dataset.
+Scroll down to "Training YOLO on COCO" and run the commands to train YOLOv3 model on COCO dataset.
 Scroll up to "Real-Time Detection on a Webcam" and run the commands to detect objects from webcam or video file.
 
-You may also use the Python code provided in our Code folder to use YOLOv2 trained on COCO to perform detection on images/videos.
+You may also use the Python code provided in our Code folder to use YOLOv3 trained on COCO to perform detection on images/videos.
 
-After training YOLOv2 on COCO dataset, we processed a video file by YOLOv2 to detect objects on the street.
+After training YOLOv3 on COCO dataset, we processed a video file by YOLOv3 to detect objects on the street.
 Here is the output video annotated with bounding boxes and class names:  https://www.youtube.com/watch?v=U4y2hvrecSw
 
 
-To Train YOLOv2 to Detect Custom Objects:
+To Train YOLOv3 to Detect Custom Objects:
 =========================================
 
 Step by step instructions are provided at: 
@@ -23,8 +23,8 @@ https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/
 Download Darknet Framework at:
 https://github.com/AlexeyAB/darknet
 
-To start training YOLOv2 model on a dataset, run the following command: 
-./darknet detector train cfg/obj.data cfg/yolov2.cfg darknet19_448.conv.23
+To start training YOLOv3 model on a dataset, run the following command: 
+./darknet detector train cfg/obj.data cfg/yolov3.cfg darknet19_448.conv.23
 
 Requirements on Windows/Linux:
 ==============================
@@ -44,4 +44,4 @@ Files:
 6. Source code: https://github.com/AlexeyAB/darknet
 7. YOLOv2 Paper.pdf
 
-See file #s 1-4 for our implementation of YOLOv2 to detect doors.
+See file #s 1-4 for our implementation of YOLOv3 to detect doors.
