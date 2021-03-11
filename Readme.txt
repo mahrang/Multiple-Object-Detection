@@ -13,6 +13,8 @@ You may also use the Python code provided in our Code folder to use YOLOv3 train
 After training YOLOv3 on COCO dataset, we processed a video file by YOLOv3 to detect objects in an autonomous driving scenario.
 Here is the output video annotated with bounding boxes and class names:  https://www.youtube.com/watch?v=U4y2hvrecSw
 
+Annotated stills from the video can be seen in the folder "YOLOv3 COCO Detect in Images".
+
 
 To Train YOLOv3 to Detect Custom Objects:
 =========================================
