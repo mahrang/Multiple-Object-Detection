@@ -10,7 +10,7 @@ Scroll up to "Real-Time Detection on a Webcam" and run the commands to detect ob
 
 You may also use the Python code provided in our Code folder to use YOLOv3 trained on COCO to perform detection on images/videos.
 
-After training YOLOv3 on COCO dataset, we processed a video file by YOLOv3 to detect objects on the street.
+After training YOLOv3 on COCO dataset, we processed a video file by YOLOv3 to detect objects in an autonomous driving scenario.
 Here is the output video annotated with bounding boxes and class names:  https://www.youtube.com/watch?v=U4y2hvrecSw
 
 
