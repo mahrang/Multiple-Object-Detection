@@ -4,6 +4,7 @@ To train YOLOv3 on COCO dataset:
 ================================
 
 Visit https://pjreddie.com/darknet/yolo/
+
 Scroll down to "Detection Using A Pre-Trained Model" and run the commands to install Darknet.
 Scroll down to "Training YOLO on COCO" and run the commands to train YOLOv3 model on COCO dataset.
 Scroll up to "Real-Time Detection on a Webcam" and run the commands to detect objects from webcam or video file.
