@@ -26,7 +26,9 @@ To Train YOLOv3 to Detect Custom Objects:
 =========================================
 
 Step by step instructions are provided at: 
+
 https://manivannan-ai.medium.com/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2
+
 https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/
 
 Download Darknet Framework at:
