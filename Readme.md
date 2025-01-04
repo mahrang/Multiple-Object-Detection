@@ -33,6 +33,7 @@ Download Darknet Framework at:
 https://github.com/AlexeyAB/darknet
 
 To start training YOLOv3 model on a dataset, run the following command: 
+
 ./darknet detector train cfg/obj.data cfg/yolov3.cfg darknet53.conv.74
 
 Requirements on Windows/Linux:
